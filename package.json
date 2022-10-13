@@ -1,0 +1,20 @@
+{
+  "name": "love-travel-demo",
+  "version": "1.0.0",
+  "main": "java.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiennguyenthanh/Love-Travel-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiennguyenthanh/Love-Travel-demo/issues"
+  },
+  "homepage": "https://github.com/hiennguyenthanh/Love-Travel-demo#readme",
+  "keywords": [],
+  "description": ""
+}
